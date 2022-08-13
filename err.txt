@@ -1,0 +1,1 @@
+Authentication failed, see inner exception. at System.Net.Security.SsiStream<ForceAuthenticationAsy nc>d_175' 1 [(System.NetSecurity.AsyncReadWriteAdapter, System.Net.Security, Version=6.0.0.0, Culture-neutral, PublicKeyToken=b03f5f7111d50a3aMMoveNext0 at SuperSocketClientEngine.SsIStreamTcpSessio n.AuthenticateAsClientAsync(SslStream ssIStream, Security0ption securityOption)
